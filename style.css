@@ -1,0 +1,32 @@
+body {
+  background-color: #0d1117; /* GitHub Dark Mode Grey */
+  color: #c9d1d9;            /* Light text */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+h2 {
+  border-bottom: 1px solid #30363d;
+  padding-bottom: 8px;
+  color: #58a6ff; /* Blue headers */
+}
+
+/* Making your links look better */
+a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Styling your <hr> to be subtle */
+hr {
+  border: 0;
+  border-top: 1px solid #30363d;
+  margin: 20px 0;
+  }
